@@ -16,5 +16,3 @@ Please find common FAQs for the app below:
 
 - FAQ1
 - FAQ2
-- FAQ3
-- FAQ4
